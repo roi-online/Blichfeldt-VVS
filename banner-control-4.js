@@ -10,7 +10,7 @@ var topSectionText = ["Consent", "Details", "About"];
 var firstSectionText = "Vi bruger cookies til at personalisere indhold og annoncer, tilvejebringe funktioner til sociale medier og analysere vores trafik. Vi deler også oplysninger om din brug af vores hjemmeside med vores partnere inden for sociale medier, annoncering og analyse, som kan kombinere dem med andre oplysninger, du har givet dem, eller som de har indsamlet fra din brug af deres tjenester.";
 var thirdSectionText = "Cookies er små tekstfiler, der bruges af hjemmesider til at forbedre brugeroplevelsen. Loven siger, at vi kan gemme cookies på din enhed, hvis de er strengt nødvendige for driften af denne hjemmeside. For alle andre typer cookies har vi brug for din tilladelse. Dette betyder, at cookies klassificeret som nødvendige håndteres i henhold til artikel 6, stk. 1, litra f, i GDPR. Alle andre cookies, såsom dem i kategorierne Præferencer og Markedsføring, håndteres i henhold til artikel 6, stk. 1, litra a, i GDPR. Denne hjemmeside bruger forskellige typer cookies. Nogle cookies sættes af tredjepartstjenester, der vises på vores sider.";
 
-var bannerButtonsTexts = ["Accept", "Decline", "Customize", "Save"];
+var bannerButtonsTexts = ["Acceptér", "Afvis", "Customize", "Gem"];
 
 var categoryDescriptionsText = {
 	Necessary: {
